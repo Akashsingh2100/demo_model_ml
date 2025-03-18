@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 # API Endpoint (replace with your deployed API URL)
-API_URL = "https://api-deploy-cnt1.onrender.com/predict"
+API_URL = "https://api-deploy-cnt1.onrender.com/predict/"
 
 # Page title & styling
 st.set_page_config(page_title="Cat vs. Dog Classifier", page_icon="🐶", layout="centered")
